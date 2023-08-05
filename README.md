@@ -13,4 +13,4 @@ This project uses these fonts from 1001fonts (free for personal, non-commercial,
 This project uses the following font from DaFont (free for personal, non-commercial, purposes):  
 "[Pixel Takhisis](https://www.dafont.com/pixel-takhisis.font)" by Pixel Sagas  
 
-This project uses assets and code fragments from the GitHub repository "Wireframe18" (https://github.com/Wireframe-Magazine/Wireframe18), with source code by Mark Vanstone. Licensed under CC BY-NC-SA 3.0
+This project uses assets and code fragments from the GitHub repository "[Wireframe18](https://github.com/Wireframe-Magazine/Wireframe18)", with source code by Mark Vanstone. Licensed under CC BY-NC-SA 3.0
